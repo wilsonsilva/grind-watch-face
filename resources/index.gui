@@ -1,0 +1,5 @@
+<svg class="background">
+  <textarea id="grind">It's time to GRIND.</textarea>
+  <text id="time" />
+  <text id="date" />
+</svg>

@@ -1,0 +1,31 @@
+.background {
+  viewport-fill: black;
+}
+
+#grind {
+  font-size: 65;
+  font-family: Colfax-Medium;
+  text-length: 32;
+  line-increment: 50;
+  x: 1;
+  y: 1;
+  fill: ghostwhite;
+}
+
+#time {
+  font-size: 100;
+  font-family: Colfax-Medium;
+  text-length: 32;
+  x: 1;
+  y: 100%-40;
+  fill: white;
+}
+
+#date {
+  font-size: 20;
+  font-family: Colfax-Medium;
+  text-length: 32;
+  x: 3;
+  y: 100%-10;
+  fill: white;
+}

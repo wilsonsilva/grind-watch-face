@@ -1,0 +1,22 @@
+{
+  "fitbit": {
+    "appUUID": "859f5e3b-ee61-430e-a2ae-07fcba5801c2",
+    "appType": "clockface",
+    "appDisplayName": "Grind",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Grind"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}
